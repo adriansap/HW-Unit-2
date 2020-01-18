@@ -38,8 +38,8 @@ p {
 }
 
 button {
-position:relative;
-left:-30px;
+/* position:relative;
+left:-30px; */
     background-color:teal !important;
 }
 
@@ -60,4 +60,6 @@ left:-30px;
 .form-group {
     margin-bottom:0px !important;
 }
-
+#submitbutton {
+    background-color:whitesmoke;
+}
