@@ -1,0 +1,63 @@
+#fullname {
+    background-color:teal;
+    color:white;
+    height:40px;
+    width:140px;
+    font-size:20px;
+}
+
+#navigation {
+    float:right;
+}
+
+#aboutme {
+    background-color:whitesmoke;
+    color:teal;
+    height:40px;
+    width:120px;
+    font-size:25px;
+}
+
+.row {
+    background-color:whitesmoke;
+    position:relative;
+    /* top:10px; */
+}
+
+#row2 {
+    position:relative;
+    top:20px;
+}
+
+#row3fix {
+    padding:0px;
+}
+
+p {
+    margin:0 auto;
+}
+
+button {
+position:relative;
+left:-30px;
+    background-color:teal !important;
+}
+
+.wrapper {
+    background-color:whitesmoke;
+}
+
+#message {
+    height:400px;
+}
+
+#spacer {
+    background-color:whitesmoke;
+    width:1130px;
+    height:40px;
+}
+
+.form-group {
+    margin-bottom:0px !important;
+}
+
