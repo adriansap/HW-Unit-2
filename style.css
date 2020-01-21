@@ -73,3 +73,19 @@ left:-30px; */
     background-color: 
     #f5f5f5;
 }
+
+/*@media for portfolio.html */
+@media screen and (max-width: 968px) {
+body { 
+        background-color: #333 !important;
+    }
+.container {
+    width: 600px; 
+}
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
